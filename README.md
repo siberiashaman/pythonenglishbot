@@ -1,4 +1,4 @@
-# pythonenglisgbot
+# pythonenglishbot
 Learn english from telegram bot
 
 Используется библиотека pytelegrambotapi
